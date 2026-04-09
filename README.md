@@ -9,3 +9,4 @@ ALT's technical test days 3-4
 [Framing note (complete) (FR)](./full.md)
 
 ### Provided files
+[Architectural diagram (also present in the upcoming main document file as an image) (FR)](./Architecture%20globale.excalidraw)
